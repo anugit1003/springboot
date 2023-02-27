@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyApplication {
   @RequestMapping("/")
   String home() {
-  return "Test application!";
+  return "Test Anuradha's wonderful Spring application!";
   }
   public static void main(String[] args) {
   SpringApplication.run(MyApplication.class, args);
