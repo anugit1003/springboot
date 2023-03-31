@@ -14,6 +14,6 @@ public class MyApplication {
 
   @RequestMapping("/home")
   String home() {
-  return "Test Anuradha's wonderful this Spring application!";
+  return "Testing Anuradha's wonderful this Spring application!";
   }
 }
